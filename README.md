@@ -7,7 +7,7 @@ El dueño de la Óptica Gonzalez, me comenta que actualmente no cuenta con una h
 
 # Tabla de contenido.
 * [Requerimientos](https://github.com/armandozr86/Fase_III_Armando/wiki/Requerimientos).
-* Instalación
+* [Instalación](https://github.com/armandozr86/Fase_III_Armando/wiki/Instalaci%C3%B3n)
 * Configuración
 * Uso
 * Contribución
